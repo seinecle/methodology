@@ -11,7 +11,7 @@ last modified: {docdate}
 :experimental:
 :imagesdir: images
 
-== 1. *The broad topic I would like to investigate is ...*
+== 1. The broad topic I would like to investigate is ...
 (1 sentence)
 
 {nbsp} +
@@ -20,8 +20,10 @@ last modified: {docdate}
 {nbsp} +
 
 '''
+{nbsp} +
 
-== 2. *This topic is relevant in a professional perspective because ...*
+
+== 2. This topic is relevant in a professional perspective because ...
 (1 sentence)
 
 
@@ -31,9 +33,10 @@ last modified: {docdate}
 {nbsp} +
 
 '''
+{nbsp} +
 
 
-== 3. *Within this topic, a question that needs to be studied is ...*
+== 3. Within this topic, a question that needs to be studied is ...
 (1 sentence)
 
 {nbsp} +
@@ -42,8 +45,10 @@ last modified: {docdate}
 {nbsp} +
 
 '''
+{nbsp} +
 
-== 4. *The model that is most commonly used to frame this research question is ...*
+
+== 4. The model that is most commonly used to frame this research question is ...
 (1 sentence)
 
 _example: the https://en.wikipedia.org/wiki/Purchase_funnel[purchase funnel]? the https://en.wikipedia.org/wiki/Value_chain[value chain]? the https://en.wikipedia.org/wiki/Business_Model_Canvas[business model canvas]? a model in https://link.springer.com/article/10.1007/s11747-007-0070-0[consumer psychology]? https://en.wikipedia.org/wiki/Gartner_hype_cycle[Gartner's hype cycle?]_
@@ -51,37 +56,14 @@ _example: the https://en.wikipedia.org/wiki/Purchase_funnel[purchase funnel]? th
 {nbsp} +
 
 '''
-{nbsp} +
-
-'''
-
-
-== 5. *To study this question, my methodology will be ... *
-(1 sentence)
-
-
 
 {nbsp} +
 
 '''
 {nbsp} +
 
-'''
 
-== 6. *This methodology will make use of this empirical material ...*
-(1 sentence)
-
-
-{nbsp} +
-
-'''
-{nbsp} +
-
-'''
-
-
-
-== 7. *I will collect this empirical material by doing ...*
+== 5. To study this question, my methodology will be ... 
 (1 sentence)
 
 {nbsp} +
@@ -91,8 +73,32 @@ _example: the https://en.wikipedia.org/wiki/Purchase_funnel[purchase funnel]? th
 
 '''
 
+== 6. This methodology will make use of this empirical material ...
+(1 sentence)
 
-== 8. *These are the precise steps or tools I will use for the collection of data...*
+
+{nbsp} +
+
+'''
+{nbsp} +
+
+'''
+{nbsp} +
+
+
+== 7. I will collect this empirical material by doing ...
+(1 sentence)
+
+{nbsp} +
+
+'''
+{nbsp} +
+
+'''
+{nbsp} +
+
+
+== 8. These are the precise steps or tools I will use for the collection of data...
 (bullet point list)
 
 
@@ -106,9 +112,10 @@ _example: the https://en.wikipedia.org/wiki/Purchase_funnel[purchase funnel]? th
 {nbsp} +
 
 '''
+{nbsp} +
 
 
-== 9. *To analyze this data, I will do:*
+== 9. To analyze this data, I will do:
 (bullet point list)
 
 {nbsp} +
@@ -124,9 +131,10 @@ _example: the https://en.wikipedia.org/wiki/Purchase_funnel[purchase funnel]? th
 {nbsp} +
 
 '''
+{nbsp} +
 
 
-== 10. *My intention is to synthetize my results by:*
+== 10. My intention is to synthetize my results by:
 (choose an option)
 
 - adapting the model that I had identified in step 4
@@ -137,6 +145,9 @@ _example: the https://en.wikipedia.org/wiki/Purchase_funnel[purchase funnel]? th
 {nbsp} +
 - using another method, which is:
 {nbsp} +
+{nbsp} +
 
 '''
+{nbsp} +
+
 
