@@ -1,0 +1,7 @@
+target/
+src/main/asciidoc/subdir/
+properties/
+*.gsheet
+**/*.gdraw
+**/*.gslide
+_config.yml

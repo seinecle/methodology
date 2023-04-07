@@ -1,0 +1,33 @@
+= Content analysis
+Clément Levallois <analysis@exploreyourdata.com>
+2023-04-07
+
+last modified: {docdate}
+
+:icons: font
+:iconsfont:   font-awesome
+:revnumber: 1.0
+:example-caption!:
+:experimental:
+:imagesdir: images
+
+== Short description
+Content analysis consists in collecting documents and getting insights from them by applying a systematic categorization scheme to them. The results obtained can help the analyst create a model, formulate hypotheses, and create interpretative narratives.
+
+== Key steps
+- selecting which documents to collect. These can be interviews, notes from an ethnography, press articles, social media content... it matters that the type of source and the rules that define which source to be collected, are defined in coherence with the research question.
+- defining a categorization scheme
+//+
+- collecting documents then coding them, or collecting them AND coding them at the same time.
+- iterating on the coding scheme while the collection proceeds, or after it.
+- synthetizing results (eg, in a table) and iterating on the coding scheme as needed.
+
+== Resources for absolute beginners
+
+=== videos
+1. Qualitative Content Analysis 101: The What, Why & How (With Examples) https://www.youtube.com/watch?v=i_5Isz9t8Hc[link]
+2. RESEARCH METHODS - Content Analysis https://youtu.be/UpN7itt97_M[link]
+
+=== short and simple academic papers to get more details
+- Hindman, L. C., & Walker, N. A. (2020). Sexism in professional sports: How women managers experience and survive sport organizational culture. Journal of Sport Management, 34(1), 64-76. https://doi.org/10.1123/jsm.2018-0331[link]- Stemler, S. (2001). An overview of content analysis. Practical Assessment, Research, and Evaluation, 7(1). https://doi.org/10.7275/z6fm-2e34[link]
+- Zhang, Y. , & Wildemuth, B. M. (2009). Qualitative analysis of content. In B. Wildemuth (Ed.), Applications of Social Research Methods to Questions in Information and Library Science (pp.308-319). Westport, CT: Libraries Unlimited. https://www.ischool.utexas.edu/~yanz/Content_analysis.pdf[link]
