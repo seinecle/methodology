@@ -21,3 +21,15 @@ last modified: {docdate}
 == Academic papers to get more details
 - Cléret, B., Dehling, A., Leroy, J., Rokka, J., Sohier, A., & Herbert, M. (2018). https://library.em-lyon.com/Default/doc/bth/131407618/the-videographic-approach-in-marketing-research-which-methodological-protocol[The videographic approach in marketing research: Which methodological protocol?], Recherche et Applications En Marketing (English Edition), 33(3), 85–105. https://doi.org/10.1177/2051570718789870
 - Rokka, J., & Hietanen, J. (2018). https://library.em-lyon.com/Default/doc/bth/131407614/on-positioning-videography-as-a-tool-for-theorizingzef[On positioning videography as a tool for theorizing]. Recherche et Applications En Marketing (English Edition), 33(3), 106–121. https://doi.org/10.1177/2051570718754762
+
+== Professors at emlyon business school who can supervise this type of projects
+
+https://em-lyon.com/en/joonas-rokka/briefly[Joonas Rokka]
+
+== To go further
+
+Find other methodology lessons https://seinecle.github.io/methodology/[here].
+
+image:round_portrait_mini_150.png[align="center", role="right"]
+
+This course is designed by https://www.twitter.com/seinecle[Clement Levallois], and check https://nocodefunctions.com[my free web app for data analysis].

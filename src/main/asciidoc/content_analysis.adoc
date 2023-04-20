@@ -31,3 +31,16 @@ Content analysis consists in collecting documents and getting insights from them
 === short and simple academic papers to get more details
 - Hindman, L. C., & Walker, N. A. (2020). Sexism in professional sports: How women managers experience and survive sport organizational culture. Journal of Sport Management, 34(1), 64-76. https://doi.org/10.1123/jsm.2018-0331[link]- Stemler, S. (2001). An overview of content analysis. Practical Assessment, Research, and Evaluation, 7(1). https://doi.org/10.7275/z6fm-2e34[link]
 - Zhang, Y. , & Wildemuth, B. M. (2009). Qualitative analysis of content. In B. Wildemuth (Ed.), Applications of Social Research Methods to Questions in Information and Library Science (pp.308-319). Westport, CT: Libraries Unlimited. https://www.ischool.utexas.edu/~yanz/Content_analysis.pdf[link]
+
+== Professors at emlyon business school who can supervise this type of projects
+
+https://em-lyon.com/en/lisa-buchter/briefly[Lisa Buchter]
+
+
+== To go further
+
+Find other methodology lessons https://seinecle.github.io/methodology/[here].
+
+image:round_portrait_mini_150.png[align="center", role="right"]
+
+This course is designed by https://www.twitter.com/seinecle[Clement Levallois], and check https://nocodefunctions.com[my free web app for data analysis].
