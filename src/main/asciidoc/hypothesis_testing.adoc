@@ -30,11 +30,6 @@ https://library.em-lyon.com/Default/doc/SYRACUSE/541728/marketing-research-with-
 
 This book is about SPSS but PSPP is exactly the same so the book should be very useful.
 
-== Professors at emlyon business school who can supervise this type of projects
-
-https://em-lyon.com/en/franck-jaotombo/briefly[Franck Jaotombo]
-
-
 == To go further
 
 Find other methodology lessons https://seinecle.github.io/methodology/[here].

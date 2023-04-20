@@ -20,10 +20,6 @@ Prospective is a principled approach to identifying possible or plausible future
 == an academic reference on the topic
 - https://academic.oup.com/book/9616[Strategic Reframing: The Oxford Scenario Planning Approach]
 
-== Professors at emlyon business school who can supervise this type of projects
-
-https://em-lyon.com/en/thomas-gauthier/briefly[Thomas Gauthier]
-
 == To go further
 
 Find other methodology lessons https://seinecle.github.io/methodology/[here].

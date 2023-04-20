@@ -56,10 +56,6 @@ Birkinbine, B. J., & Gómez, R. (2020). https://doi.org/10.1177/0163443720902907
 
 Cavalcante, W. Q. de F., Coelho, A., & Bairrada, C. M. (2021). https://doi.org/10.3390/su13094987[Sustainability and Tourism Marketing: A Bibliometric Analysis of Publications between 1997 and 2020 Using VOSviewer Software]. Sustainability, 13(9), Article 9. https://doi.org/10.3390/su13094987
 
-== Professors at emlyon business school who can supervise this type of projects
-
-https://em-lyon.com/en/clement-levallois/briefly[Clément Levallois]
-
 == To go further
 
 Find other methodology lessons https://seinecle.github.io/methodology/[here].

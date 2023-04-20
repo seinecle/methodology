@@ -23,10 +23,6 @@ Sentiment analysis consists in classifying a piece of text as being positive, ne
 == Tools for sentiment analysis
 - https://nocodefunctions.com/[Free tool for sentiment analysis] for texts in French, Spanish and English
 
-== Professors at emlyon business school who can supervise this type of projects
-
-https://em-lyon.com/en/clement-levallois/briefly[Clément Levallois]
-
 == To go further
 
 Find other methodology lessons https://seinecle.github.io/methodology/[here].
