@@ -20,6 +20,13 @@ https://real-statistics.com/[Real Statistics]
 https://www.gnu.org/software/pspp/get.html[Download page]
 https://www.garyfisk.com/pspp/index.html[Tutorial]
 
+== Youtube video
+
+A very clear video on simple and multiple linear regression:
+
+video::29rjWClT_3U[youtube]
+
+The video illustrates with a paying software, but you can also perform the same operations with Excel, SPSS or PSPP.
 
 == online book accessible from the library
 https://library.em-lyon.com/Default/doc/SYRACUSE/541728/marketing-research-with-spss-wim-janssens-et-al[Marketing research with SPSS].
