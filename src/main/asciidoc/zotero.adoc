@@ -1,0 +1,101 @@
+= How to use Zotero
+Clément Levallois <analysis@exploreyourdata.com>
+2023-06-06
+
+last modified: {docdate}
+
+:icons: font
+:iconsfont:   font-awesome
+:revnumber: 1.0
+:example-caption!:
+:experimental:
+:imagesdir: images
+
+// 'Escape' or 'o' to see all sides, F11 for full screen, 's' for speaker notes
+
+== Why is Zotero useful for a thesis? Saving you from a nightmare.
+When you are finished writing your dissertation, a last touch consists in adding **a list of the articles**, books, etc. that you have cited in your dissertation.
+
+//+
+This list of articles, books, etc. is called a **bibliography** and it should follow a series of rules:
+
+//+
+- it should include _all_ the references that you have cited in your document.
+- the list should be sorted alphabetically by the name of the author of the reference.
+- each reference should include the title of the article (or book...), the names of all authors, the name of the journal, the date of publication, etc.
+
+//+
+
+.Illustration: example of 3 references in a bibliography
+====
+Hamilton, W. L., Clark, K., Leskovec, J., & Jurafsky, D. (2016). Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora. __Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing__, 595–605. https://doi.org/10.18653/v1/D16-1057
+====
+//+
+
+====
+Hartmann, J., Huppertz, J., Schamp, C., & Heitmann, M. (2019). Comparing automated text classification methods. __International Journal of Research in Marketing__, 36(1), 20–38. https://doi.org/10.1016/j.ijresmar.2018.09.009
+====
+
+//+
+
+====
+Henry, E. (2008). Are investors influenced by how earnings press releases are written? __The Journal of Business Communication__ (1973), 45(4), 363–407.
+====
+
+
+//+
+**A very common and sad situation is to find students wasting hours and nights to finish up their bibliography, when actually Zotero helps you do it automatically.** 
+
+//+
+Zotero helps you:
+
+1. keep and organize a list of your references
+2. insert these references in the text of the dissertation
+3. create automatically a bibliography at the end of the document, containing all the references cited in the text of the thesis.
+
+== How to use Zotero: 6 simple steps
+
+=== 1. Install Zotero on your computer
+[TIP]
+====
+https://www.zotero.org/download/
+====
+
+=== 2. Install a plugin to integrate Zotero to Word / google docs
+[TIP]
+====
+https://www.zotero.org/support/word_processor_integration
+====
+
+=== 3. Install a connector to integrate Zotero to Word / google docs
+[TIP]
+====
+image::zotero-connectors.png[align="center", title="with a connector, you can download a reference from the web to Zotero in one click"]
+====
+
+=== 4. Download a reference from the web
+image::zotero-save-reference.gif[align="center", title="how to save a reference found on the web to Zotero"]
+
+=== 5. Insert a reference in your thesis
+
+The first time you will insert a reference, you will be presented with a window asking you to choose parameters. **Just click ok**.
+
+Then, a red search bar opens.
+Type the first words of the title of the article you want to insert, or the name of the author:
+
+image::zotero-add-reference.gif[align="center", title="how to add a reference found on the web to Zotero"]
+
+=== 6. Create a bibliography in your thesis
+image::zotero-create-bibliography.gif[align="center", title="how to insert a bibliography in your thesis"]
+
+[TIP]
+====
+You need to insert the bibliography in your Word document just once. It gets automatically updated, no need to modify it yourself.
+====
+
+== To go further
+
+Find other methodology lessons https://seinecle.github.io/methodology/[here].
+image:round_portrait_mini_150.png[align="center", role="right"]
+
+This course is designed by https://www.twitter.com/seinecle[Clement Levallois], and check https://nocodefunctions.com[my free web app for data analysis].
