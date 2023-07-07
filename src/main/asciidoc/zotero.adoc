@@ -8,10 +8,18 @@ last modified: {docdate}
 :iconsfont:   font-awesome
 :revnumber: 1.0
 :example-caption!:
+:tip-caption: 🇫🇷
 :experimental:
 :imagesdir: images
 
 // 'Escape' or 'o' to see all sides, F11 for full screen, 's' for speaker notes
+
+
+//+
+[TIP]
+====
+Si vous lisez le français: vous pouvez aussi aller sur https://callisto-formation.fr/course/view.php?id=330[la page web de ce tutoriel gratuit sur Zotero], vraiment bien fait!
+====
 
 == Why is Zotero useful for a thesis? Saving you from a nightmare.
 When you are finished writing your dissertation, a last touch consists in adding **a list of the articles**, books, etc. that you have cited in your dissertation.
@@ -56,22 +64,21 @@ Zotero helps you:
 == How to use Zotero: 6 simple steps
 
 === 1. Install Zotero on your computer
+
 [TIP]
 ====
 https://www.zotero.org/download/
 ====
 
 === 2. Install a plugin to integrate Zotero to Word / google docs
+
 [TIP]
 ====
 https://www.zotero.org/support/word_processor_integration
 ====
 
 === 3. Install a connector to integrate Zotero to Word / google docs
-[TIP]
-====
 image::zotero-connectors.png[align="center", title="with a connector, you can download a reference from the web to Zotero in one click"]
-====
 
 === 4. Download a reference from the web
 image::zotero-save-reference.gif[align="center", title="how to save a reference found on the web to Zotero"]
