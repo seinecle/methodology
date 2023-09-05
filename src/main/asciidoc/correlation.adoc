@@ -1,6 +1,6 @@
-= Regression analysis
+= Correlation analysis
 Clément Levallois <analysis@exploreyourdata.com>
-2023-04-07
+2023-09-05
 
 last modified: {docdate}
 
@@ -11,6 +11,7 @@ last modified: {docdate}
 :experimental:
 :imagesdir: images
 
+
 == Complete free website on conducting statistics with Excel
 https://real-statistics.com/[Real Statistics]
 
@@ -18,13 +19,15 @@ https://real-statistics.com/[Real Statistics]
 https://www.gnu.org/software/pspp/get.html[Download page]
 https://www.garyfisk.com/pspp/index.html[Tutorial]
 
+== Choosing Between Spearman’s and Pearson’s Correlation?
+
+https://statisticsbyjim.com/basics/spearmans-correlation/[A great blog post] explaining how to choose the proper type of correlation. 
+
 == Youtube video
 
-A very clear video on simple and multiple linear regression:
+A very clear video on using Excel to compute a correlation:
 
-video::29rjWClT_3U[youtube]
-
-The video illustrates with a paying software, but you can also perform the same operations with Excel, SPSS or PSPP.
+video::sGlsdHD-lcA[youtube]
 
 == online book accessible from the library
 https://library.em-lyon.com/Default/doc/SYRACUSE/541728/marketing-research-with-spss-wim-janssens-et-al[Marketing research with SPSS].

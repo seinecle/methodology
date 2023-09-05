@@ -24,6 +24,12 @@ These categories are also called "codes", and the list of categories can be call
 //+
 - organize and format documents, as needed. For instance, it will be convenient to transcribe your interviews before you analyze them. Visit the page on https://seinecle.github.io/methodology/generated-html/transcripts.html[free tools to transcribe interviews and any audio file].
 //+
+- you found great documents formatted in pdf? Analyzing the text contained in them might be tricky. To help you with this, I have developped 2 free web tools:
+
+ - https://nocodefunctions.com/pdfmatcher/pdf_matcher_tool.html[a click & point function to search hundreds of pdfs and return the search terms with their context]
+ - https://nocodefunctions.com/pdf_region_extractor/pdf_region_text_extractor_tool.html[a click & point function to extract text from specific regions in hundreds of pdfs].
+ 
+//+
 - read the documents and apply your categorization scheme to it: each time you find that a document corresponds to one of your categories, you must write down the exact sentence or paragraph where this happens.
 
 In practice, how do you "write down" the sentence that matches a category?
