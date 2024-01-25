@@ -77,14 +77,13 @@ https://www.zotero.org/download/
 https://www.zotero.org/support/word_processor_integration
 ====
 
-=== 3. Install a connector to integrate Zotero to Word / google docs
+=== 3. Install a connector to integrate Zotero to your web browser
 image::zotero-connectors.png[align="center", title="with a connector, you can download a reference from the web to Zotero in one click"]
 
-=== 4. Download a reference from the web
+=== 4. in your browser, find a reference and download it with the connector
 image::zotero-save-reference.gif[align="center", title="how to save a reference found on the web to Zotero"]
 
 === 5. Insert a reference in your thesis
-
 The first time you will insert a reference, you will be presented with a window asking you to choose parameters. **Just click ok**.
 
 Then, a red search bar opens.
@@ -101,7 +100,6 @@ You need to insert the bibliography in your Word document just once. It gets aut
 ====
 
 == To go further
-
 Find other methodology lessons https://seinecle.github.io/methodology/[here].
 image:round_portrait_mini_150.png[align="center", role="right"]
 
